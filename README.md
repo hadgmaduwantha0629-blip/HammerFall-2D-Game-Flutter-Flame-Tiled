@@ -9,7 +9,7 @@ A 2D action-adventure mobile game built using Flutter and the Flame engine.
 
 ## 🎥 Gameplay Video
 
-![click me to watch the video](https://drive.google.com/file/d/1eh-hyLuhBeGdnMNcxV4WuB7k-H_g6vKk/view?usp=sharing)
+[click me to watch the video](https://drive.google.com/file/d/1eh-hyLuhBeGdnMNcxV4WuB7k-H_g6vKk/view?usp=sharing)
 
 ---
 
