@@ -2,7 +2,7 @@
 
 A 2D action-adventure mobile game built using Flutter and the Flame engine.
 
-🚀 **Play the game:** [Download APK]([releases/HammerFall.apk](https://github.com/hadgmaduwantha0629-blip/HammerFall-2D-Game-Flutter-Flame-Tiled/releases/download/v1.0/HammerFall.Game.apk))
+🚀 **Play the game:** [Download APK](https://github.com/hadgmaduwantha0629-blip/HammerFall-2D-Game-Flutter-Flame-Tiled/releases/download/v1.0/HammerFall.Game.apk)
 📂 **Source Code:** Available in this repository
 
 ---
