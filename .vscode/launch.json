@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Hammerfall (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "templateFor": "",
+      "deviceId": "chrome",
+      "flutterMode": "debug",
+      "stopOnEntry": false,
+      "exceptionPauseMode": "None",
+      "debugSdkLibraries": false,
+      "debugExternalPackageLibraries": false
+    }
+  ]
+}
