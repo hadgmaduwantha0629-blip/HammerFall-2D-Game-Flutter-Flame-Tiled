@@ -9,7 +9,7 @@ A 2D action-adventure mobile game built using Flutter and the Flame engine.
 
 ## 🎥 Gameplay Video
 
-👉 https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+👉 [https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/1eh-hyLuhBeGdnMNcxV4WuB7k-H_g6vKk/view?usp=sharing)
 
 ---
 
@@ -180,7 +180,7 @@ flutter run
 
 ## 👨‍💻 Author
 
-Developed by *Your Name*
+Developed by Gevindu Maduwantha
 
 ---
 
